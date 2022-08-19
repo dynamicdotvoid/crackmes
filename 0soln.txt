@@ -1,0 +1,6 @@
+https://crackmes.one/crackme/62dd26f333c5d44a934e994e
+
+Solution:
+Find the string "What's the password?" in the code(as it is used to accept a password), get references. In a function there is a strcmp, which compares
+the inputted password, and the actual password.
+Password: V2VsbCBkb25lISBUaGlzIGFwcGxpY2F0aW9uIHdhcyB3cml0dGVuIGluIHB1cmUgQywgYW5kIHlvdSBjcmFja2VkIGl0Lg==

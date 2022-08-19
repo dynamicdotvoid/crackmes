@@ -1,0 +1,2 @@
+0040127f - Calls vfprintf_s, which prints to console with args
+00401c48 - Looks like main fun, address sets console title.
